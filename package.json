@@ -32,7 +32,7 @@
     "@types/jsonwebtoken": "^9.0.7",
     "@types/morgan": "^1.9.9",
     "@types/multer": "^1.4.12",
-    "firebase": "^11.0.1",
+    "firebase-admin": "^12.7.0",
     "ts-node-dev": "^2.0.0",
     "tsup": "^8.3.5"
   }
